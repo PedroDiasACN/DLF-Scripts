@@ -1,9 +1,11 @@
 # DLF-Scripts
 This repository contains some complementary scripts, information and tutorials for using the Dual Latent Fusion Codec (DLF Codec).
 
-The official page for the project can be found [here.](https://dlfcodec.github.io/)
+The official page for the project can be found [here](https://dlfcodec.github.io/).
 
-The main code is available at [It's Github page.](https://github.com/dlfcodec/Dual-generative-Latent-Fusion)
+Their amazing paper can be read through this [.pdf link](https://arxiv.org/pdf/2503.01428) and through It's [arXiv page](https://arxiv.org/abs/2503.01428).
+
+The main code is available at [It's Github page](https://github.com/dlfcodec/Dual-generative-Latent-Fusion).
 
 And also, you can download the official model weights [here.](Https://onedrive.live.com/?id=%2Fpersonal%2Faf332a47fcf136b4%2FDocuments%2F%E5%85%B1%E4%BA%AB%2FDLF%2FDLF_models&listurl=%2Fpersonal%2Faf332a47fcf136b4%2FDocuments&ithint=folder&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy9hZjMzMmE0N2ZjZjEzNmI0L0VzeXQ1c2NXeFRGR2k4THU3aVNwVU9FQkFFUVVRVm9CRjZaY2JmSU9SdmRUY2c&ga=1)
 
